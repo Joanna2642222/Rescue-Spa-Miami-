@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -903,7 +903,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                 <div>
                     <a href="#" class="inline-block mb-6">
-                        <img src="https://picsum.photos/200/80?random=22" alt="Rescue Spa Miami Logo" class="h-12 w-auto">
+                        <img src="https://i.pinimg.com/736x/44/66/38/446638e594a9d16d34d9d85a185923a0.jpg">
                     </a>
                     <p class="text-gray-400 mb-6">
                         Premium skincare services tailored to your unique needs in the heart of Miami.
